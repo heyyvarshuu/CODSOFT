@@ -12,4 +12,9 @@ The goal of this project is to build a **simple chatbot** using **rule-based log
 - Language: Java
 - Tools: VS Code / Terminal
 - Approach: Rule-Based (using `if-else` conditions)
- ## 📁 Folder Structure
+ ## 🚀 How to Run
+
+1. Open a terminal in the folder containing `ChatBot.java`
+2. **Compile the code**:
+   ```bash
+   javac ChatBot.java
