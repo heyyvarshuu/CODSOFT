@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class ChatBot {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("🤖 Hello! I'm CodSoftBot. How can I help you today?");
+        System.out.println("(Type 'bye' or 'exit' to end the chat)");
+
+        while (true) {
+            System.out.print("You: ");
+            String userInput = scanner.nextLine().toLowerCase();
+
+            // Rule-based responses using if-else
+            if (userInput.contains("hi") || userInput.contains("hello")) {
+                System.out.println("Bot: Hello! 😊 How can I assist you?");
+            } else if (userInput.contains("how are you")) {
+                System.out.println("Bot: I'm just a bot, but I’m functioning well. Thank you!");
+            } else if (userInput.contains("your name")) {
+                System.out.println("Bot: I'm CodSoftBot – your simple AI assistant.");
+            } else if (userInput.contains("help")) {
+                System.out.println("Bot: Sure, I’m here to help. What do you need assistance with?");
+            } else if (userInput.contains("bye") || userInput.contains("exit")) {
+                System.out.println("Bot: Goodbye! 👋 Have a great day.");
+                break;
+            } else {
+                System.out.println("Bot: I didn’t quite understand that. Can you try rephrasing?");
+            }
+        }
+
+        scanner.close();
+    }
+}
