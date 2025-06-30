@@ -50,26 +50,18 @@ The goal is to create a **Tic-Tac-Toe game** where a human plays against an **un
 
 ## 🕹️ How to Play
 1.You play as X, and the AI plays as O.
-
 2.Enter your move by selecting a number from 1 to 9 as shown below:
-
 1 | 2 | 3
-
 --+---+--
 4 | 5 | 6
-
 --+---+--
 7 | 8 | 9
-
 3.The game continues until there's a win or a draw.
 
 💡 Features
 ✅ AI always plays optimally using Minimax
-
 ✅ Text-based UI for clarity
-
 ✅ Detects win/loss/draw
-
 ✅ Validates user input
 
 
