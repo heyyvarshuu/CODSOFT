@@ -19,7 +19,8 @@ The goal of this project is to build a **simple chatbot** using **rule-based log
    ```bash
    javac ChatBot.java
 
-   
+
+
 # 🎮 Task 2 – Tic-Tac-Toe AI (Python)
 
 This is the second task for the **Artificial Intelligence Internship** at **CodSoft**.
