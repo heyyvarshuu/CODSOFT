@@ -22,6 +22,7 @@ The goal of this project is to build a **simple chatbot** using **rule-based log
 
 
 
+
 # 🎮 Task 2 – Tic-Tac-Toe AI (Python)
 
 This is the second task for the **Artificial Intelligence Internship** at **CodSoft**.
@@ -63,6 +64,7 @@ The goal is to create a **Tic-Tac-Toe game** where a human plays against an **un
 ✅ Text-based UI for clarity
 ✅ Detects win/loss/draw
 ✅ Validates user input
+
 
 
 
