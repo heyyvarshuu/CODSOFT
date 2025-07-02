@@ -65,5 +65,30 @@ The goal is to create a **Tic-Tac-Toe game** where a human plays against an **un
 ✅ Validates user input
 
 
+# 🎥 Task 4 – Movie Recommendation System (Python)
+
+This is Task 4 of the **Artificial Intelligence Internship** under **CodSoft**.
+
+In this project, I built a simple **movie recommendation system** using a content-based filtering approach. The recommender uses movie descriptions and **cosine similarity** to suggest similar movies.
+
+---
+
+## 🎯 Objective
+
+> Create a recommendation system that suggests similar items (movies) based on user preferences.  
+> This system helps users discover related content using basic **Natural Language Processing** and **Machine Learning** techniques.
+
+---
+
+## 💻 Tech Stack
+
+- **Language**: Python
+- **Libraries**:
+  - `pandas`
+  - `scikit-learn` (for TF-IDF & similarity)
+
+---
+
+
 
 
