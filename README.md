@@ -65,7 +65,8 @@ The goal is to create a **Tic-Tac-Toe game** where a human plays against an **un
 ✅ Validates user input
 
 
-# 🎥 Task 4 – Movie Recommendation System (Python)
+
+# 🎥 Task 3 – Movie Recommendation System (Python)
 
 This is Task 4 of the **Artificial Intelligence Internship** under **CodSoft**.
 
